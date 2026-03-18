@@ -11,7 +11,10 @@
 
 ## 📸 Screenshots
 
-> _Screenshots coming soon..._
+<img width="2345" height="1482" alt="image" src="https://github.com/user-attachments/assets/7d5f2c2a-3367-4fe6-9835-ce9b2e3a3564" />
+<img width="2307" height="1373" alt="image" src="https://github.com/user-attachments/assets/20083945-5e11-4aa6-8484-f00495f46867" />
+<img width="2315" height="1202" alt="image" src="https://github.com/user-attachments/assets/07236667-72ac-4117-89fe-1a04c3eaad5f" />
+This works on Hopfield networks which got Nobel prize in 2024,Physics
 
 ---
 
