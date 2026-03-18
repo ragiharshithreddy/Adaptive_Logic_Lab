@@ -145,11 +145,9 @@ This project was built using **Vibe Coding** — a modern approach to software d
 
 ## 👨‍💻 Author
 
-Made with ❤️ and curiosity by **[Your Name]**
+Made with base44 and curiosity by Ragi Harshith Reddy and Santosh Abhishek
 
 - 🌐 Live App: [https://adblogic.base44.app/](https://adblogic.base44.app/)
-- 💻 GitHub: [Your GitHub Profile Link]
-- 🔗 LinkedIn: [Your LinkedIn Profile Link]
 
 ---
 
